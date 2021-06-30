@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# assignments data set
+# ignore assignments data set
 *.h5
+*.mat
