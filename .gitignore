@@ -131,3 +131,4 @@ dmypy.json
 # ignore assignments data set
 *.h5
 *.mat
+*.zip
